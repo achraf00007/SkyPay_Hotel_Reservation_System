@@ -60,3 +60,17 @@
 
 <p><em>Exemple :</em></p>
 <p>La chambre #101 devient #101_v2 avec un nouveau prix, un balcon, etc.</p>
+
+---
+
+<h3>🚀 Commandes utiles</h3>
+
+<p>Assure-toi d’avoir <strong>Java 21</strong> et <strong>Maven</strong> installés.</p>
+
+```bash
+# 🔧 Compiler le projet
+mvn compile
+
+# ▶️ Exécuter le programme principal
+mvn exec:java
+
