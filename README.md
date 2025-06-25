@@ -65,7 +65,7 @@
 
 <h3>🚀 Commandes utiles</h3>
 
-<p>Assure-toi d’avoir <strong>Java 21</strong> et <strong>Maven</strong> installés.</p>
+<p>Assurez-vous d’avoir <strong>Java 21</strong> et <strong>Maven</strong> installés.</p>
 
 ```bash
 # 🔧 Compiler le projet
